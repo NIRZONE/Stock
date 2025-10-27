@@ -1,5 +1,17 @@
 {
-  "employees": [],
+  "employees": [
+    {
+      "empId": "EMP1761600196176",
+      "name": "Test",
+      "type": "DSR",
+      "id1": "1",
+      "id2": "1",
+      "phone1": "0",
+      "phone2": "1",
+      "numberId": "",
+      "createdAt": "2025-10-27T21:23:16.176Z"
+    }
+  ],
   "categories": [
     "SIM",
     "Hardware",
@@ -8,6 +20,6 @@
   "companyStock": [],
   "allocations": [],
   "transactions": [],
-  "backupDate": "2025-10-27T21:22:50.353Z",
+  "backupDate": "2025-10-27T21:23:17.493Z",
   "version": "1.0"
 }
