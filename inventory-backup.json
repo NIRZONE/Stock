@@ -34,18 +34,14 @@
       "serial": "2",
       "addedAt": "2025-10-27T21:40:46.336Z",
       "returnedAt": "2025-10-27T21:56:18.023Z"
-    }
-  ],
-  "allocations": [
+    },
     {
       "id": "PROD176160213730310",
       "name": "19 tk voice",
       "category": "SIM",
       "serial": "10",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730311",
@@ -53,9 +49,7 @@
       "category": "SIM",
       "serial": "11",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730312",
@@ -63,9 +57,7 @@
       "category": "SIM",
       "serial": "12",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730313",
@@ -73,9 +65,7 @@
       "category": "SIM",
       "serial": "13",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730314",
@@ -83,9 +73,7 @@
       "category": "SIM",
       "serial": "14",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730315",
@@ -93,9 +81,7 @@
       "category": "SIM",
       "serial": "15",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730316",
@@ -103,9 +89,7 @@
       "category": "SIM",
       "serial": "16",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730317",
@@ -113,9 +97,7 @@
       "category": "SIM",
       "serial": "17",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730318",
@@ -123,9 +105,7 @@
       "category": "SIM",
       "serial": "18",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730319",
@@ -133,9 +113,7 @@
       "category": "SIM",
       "serial": "19",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     },
     {
       "id": "PROD176160213730320",
@@ -143,12 +121,31 @@
       "category": "SIM",
       "serial": "20",
       "addedAt": "2025-10-27T21:55:37.303Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:55:51.607Z"
+      "returnedAt": "2025-10-27T21:56:26.735Z"
     }
   ],
+  "allocations": [],
   "transactions": [
+    {
+      "id": "TXN1761602186735",
+      "type": "returned",
+      "employeeName": "Test",
+      "productCount": 11,
+      "serials": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "timestamp": "2025-10-27T21:56:26.735Z"
+    },
     {
       "id": "TXN1761602178023",
       "type": "returned",
@@ -661,6 +658,6 @@
       "timestamp": "2025-10-27T21:23:37.000Z"
     }
   ],
-  "backupDate": "2025-10-27T21:56:19.435Z",
+  "backupDate": "2025-10-27T21:56:28.107Z",
   "version": "1.0"
 }
