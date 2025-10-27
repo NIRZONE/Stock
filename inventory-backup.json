@@ -17,24 +17,41 @@
     "Hardware",
     "Accessories"
   ],
-  "companyStock": [
+  "companyStock": [],
+  "allocations": [
     {
       "id": "PROD17616012463361",
       "name": "robi",
       "category": "SIM",
       "serial": "1",
-      "addedAt": "2025-10-27T21:40:46.336Z"
+      "addedAt": "2025-10-27T21:40:46.336Z",
+      "employeeId": "EMP1761600196176",
+      "employeeName": "Test",
+      "allocatedAt": "2025-10-27T21:41:56.136Z"
     },
     {
       "id": "PROD17616012463362",
       "name": "robi",
       "category": "SIM",
       "serial": "2",
-      "addedAt": "2025-10-27T21:40:46.336Z"
+      "addedAt": "2025-10-27T21:40:46.336Z",
+      "employeeId": "EMP1761600196176",
+      "employeeName": "Test",
+      "allocatedAt": "2025-10-27T21:41:56.136Z"
     }
   ],
-  "allocations": [],
   "transactions": [
+    {
+      "id": "TXN1761601316136",
+      "type": "allocated",
+      "employeeName": "Test",
+      "productCount": 2,
+      "serials": [
+        "1",
+        "2"
+      ],
+      "timestamp": "2025-10-27T21:41:56.136Z"
+    },
     {
       "id": "TXN1761601246336",
       "type": "stock-added",
@@ -484,6 +501,6 @@
       "timestamp": "2025-10-27T21:23:37.000Z"
     }
   ],
-  "backupDate": "2025-10-27T21:40:47.327Z",
+  "backupDate": "2025-10-27T21:41:57.155Z",
   "version": "1.0"
 }
