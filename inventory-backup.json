@@ -18,17 +18,14 @@
     "Accessories",
     "19 TK Voice"
   ],
-  "companyStock": [],
-  "allocations": [
+  "companyStock": [
     {
       "id": "PROD17616012463361",
       "name": "robi",
       "category": "SIM",
       "serial": "1",
       "addedAt": "2025-10-27T21:40:46.336Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:41:56.136Z"
+      "returnedAt": "2025-10-27T21:56:18.023Z"
     },
     {
       "id": "PROD17616012463362",
@@ -36,10 +33,10 @@
       "category": "SIM",
       "serial": "2",
       "addedAt": "2025-10-27T21:40:46.336Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:41:56.136Z"
-    },
+      "returnedAt": "2025-10-27T21:56:18.023Z"
+    }
+  ],
+  "allocations": [
     {
       "id": "PROD176160213730310",
       "name": "19 tk voice",
@@ -152,6 +149,17 @@
     }
   ],
   "transactions": [
+    {
+      "id": "TXN1761602178023",
+      "type": "returned",
+      "employeeName": "Test",
+      "productCount": 2,
+      "serials": [
+        "1",
+        "2"
+      ],
+      "timestamp": "2025-10-27T21:56:18.023Z"
+    },
     {
       "id": "TXN1761602151607",
       "type": "allocated",
@@ -653,6 +661,6 @@
       "timestamp": "2025-10-27T21:23:37.000Z"
     }
   ],
-  "backupDate": "2025-10-27T21:55:52.899Z",
+  "backupDate": "2025-10-27T21:56:19.435Z",
   "version": "1.0"
 }
