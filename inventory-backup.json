@@ -18,7 +18,85 @@
     "Accessories",
     "19 TK Voice"
   ],
-  "companyStock": [],
+  "companyStock": [
+    {
+      "id": "PROD176160213730310",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "10",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730311",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "11",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730312",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "12",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730313",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "13",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730314",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "14",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730315",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "15",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730316",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "16",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730317",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "17",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730318",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "18",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730319",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "19",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    },
+    {
+      "id": "PROD176160213730320",
+      "name": "19 tk voice",
+      "category": "SIM",
+      "serial": "20",
+      "addedAt": "2025-10-27T21:55:37.303Z"
+    }
+  ],
   "allocations": [
     {
       "id": "PROD17616012463361",
@@ -42,6 +120,27 @@
     }
   ],
   "transactions": [
+    {
+      "id": "TXN1761602137303",
+      "type": "stock-added",
+      "productCount": 11,
+      "category": "SIM",
+      "productName": "19 tk voice",
+      "serials": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "timestamp": "2025-10-27T21:55:37.303Z"
+    },
     {
       "id": "TXN1761601316136",
       "type": "allocated",
@@ -502,6 +601,6 @@
       "timestamp": "2025-10-27T21:23:37.000Z"
     }
   ],
-  "backupDate": "2025-10-27T21:54:32.939Z",
+  "backupDate": "2025-10-27T21:55:38.518Z",
   "version": "1.0"
 }
