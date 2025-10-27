@@ -17,17 +17,14 @@
     "Hardware",
     "Accessories"
   ],
-  "companyStock": [],
-  "allocations": [
+  "companyStock": [
     {
       "id": "PROD17616002170011",
       "name": "Robi",
       "category": "SIM",
       "serial": "1",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170012",
@@ -35,9 +32,7 @@
       "category": "SIM",
       "serial": "2",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170013",
@@ -45,9 +40,7 @@
       "category": "SIM",
       "serial": "3",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170014",
@@ -55,9 +48,7 @@
       "category": "SIM",
       "serial": "4",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170015",
@@ -65,9 +56,7 @@
       "category": "SIM",
       "serial": "5",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170016",
@@ -75,9 +64,7 @@
       "category": "SIM",
       "serial": "6",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170017",
@@ -85,9 +72,7 @@
       "category": "SIM",
       "serial": "7",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170018",
@@ -95,9 +80,7 @@
       "category": "SIM",
       "serial": "8",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD17616002170019",
@@ -105,9 +88,7 @@
       "category": "SIM",
       "serial": "9",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700110",
@@ -115,9 +96,7 @@
       "category": "SIM",
       "serial": "10",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700111",
@@ -125,9 +104,7 @@
       "category": "SIM",
       "serial": "11",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700112",
@@ -135,9 +112,7 @@
       "category": "SIM",
       "serial": "12",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700113",
@@ -145,9 +120,7 @@
       "category": "SIM",
       "serial": "13",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700114",
@@ -155,9 +128,7 @@
       "category": "SIM",
       "serial": "14",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700115",
@@ -165,9 +136,7 @@
       "category": "SIM",
       "serial": "15",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700116",
@@ -175,9 +144,7 @@
       "category": "SIM",
       "serial": "16",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700117",
@@ -185,9 +152,7 @@
       "category": "SIM",
       "serial": "17",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700118",
@@ -195,9 +160,7 @@
       "category": "SIM",
       "serial": "18",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700119",
@@ -205,9 +168,7 @@
       "category": "SIM",
       "serial": "19",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700120",
@@ -215,9 +176,7 @@
       "category": "SIM",
       "serial": "20",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700121",
@@ -225,9 +184,7 @@
       "category": "SIM",
       "serial": "21",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700122",
@@ -235,9 +192,7 @@
       "category": "SIM",
       "serial": "22",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700123",
@@ -245,9 +200,7 @@
       "category": "SIM",
       "serial": "23",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700124",
@@ -255,9 +208,7 @@
       "category": "SIM",
       "serial": "24",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700125",
@@ -265,9 +216,7 @@
       "category": "SIM",
       "serial": "25",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700126",
@@ -275,9 +224,7 @@
       "category": "SIM",
       "serial": "26",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700127",
@@ -285,9 +232,7 @@
       "category": "SIM",
       "serial": "27",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700128",
@@ -295,9 +240,7 @@
       "category": "SIM",
       "serial": "28",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700129",
@@ -305,9 +248,7 @@
       "category": "SIM",
       "serial": "29",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700130",
@@ -315,9 +256,7 @@
       "category": "SIM",
       "serial": "30",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700131",
@@ -325,9 +264,7 @@
       "category": "SIM",
       "serial": "31",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700132",
@@ -335,9 +272,7 @@
       "category": "SIM",
       "serial": "32",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700133",
@@ -345,9 +280,7 @@
       "category": "SIM",
       "serial": "33",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700134",
@@ -355,9 +288,7 @@
       "category": "SIM",
       "serial": "34",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700135",
@@ -365,9 +296,7 @@
       "category": "SIM",
       "serial": "35",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700136",
@@ -375,9 +304,7 @@
       "category": "SIM",
       "serial": "36",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700137",
@@ -385,9 +312,7 @@
       "category": "SIM",
       "serial": "37",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700138",
@@ -395,9 +320,7 @@
       "category": "SIM",
       "serial": "38",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700139",
@@ -405,9 +328,7 @@
       "category": "SIM",
       "serial": "39",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700140",
@@ -415,9 +336,7 @@
       "category": "SIM",
       "serial": "40",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700141",
@@ -425,9 +344,7 @@
       "category": "SIM",
       "serial": "41",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700142",
@@ -435,9 +352,7 @@
       "category": "SIM",
       "serial": "42",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700143",
@@ -445,9 +360,7 @@
       "category": "SIM",
       "serial": "43",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700144",
@@ -455,9 +368,7 @@
       "category": "SIM",
       "serial": "44",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700145",
@@ -465,9 +376,7 @@
       "category": "SIM",
       "serial": "45",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700146",
@@ -475,9 +384,7 @@
       "category": "SIM",
       "serial": "46",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700147",
@@ -485,9 +392,7 @@
       "category": "SIM",
       "serial": "47",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700148",
@@ -495,9 +400,7 @@
       "category": "SIM",
       "serial": "48",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700149",
@@ -505,9 +408,7 @@
       "category": "SIM",
       "serial": "49",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700150",
@@ -515,9 +416,7 @@
       "category": "SIM",
       "serial": "50",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700151",
@@ -525,9 +424,7 @@
       "category": "SIM",
       "serial": "51",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700152",
@@ -535,9 +432,7 @@
       "category": "SIM",
       "serial": "52",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700153",
@@ -545,9 +440,7 @@
       "category": "SIM",
       "serial": "53",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700154",
@@ -555,9 +448,7 @@
       "category": "SIM",
       "serial": "54",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700155",
@@ -565,9 +456,7 @@
       "category": "SIM",
       "serial": "55",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700156",
@@ -575,9 +464,7 @@
       "category": "SIM",
       "serial": "56",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700157",
@@ -585,9 +472,7 @@
       "category": "SIM",
       "serial": "57",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700158",
@@ -595,9 +480,7 @@
       "category": "SIM",
       "serial": "58",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700159",
@@ -605,9 +488,7 @@
       "category": "SIM",
       "serial": "59",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700160",
@@ -615,9 +496,7 @@
       "category": "SIM",
       "serial": "60",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700161",
@@ -625,9 +504,7 @@
       "category": "SIM",
       "serial": "61",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700162",
@@ -635,9 +512,7 @@
       "category": "SIM",
       "serial": "62",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700163",
@@ -645,9 +520,7 @@
       "category": "SIM",
       "serial": "63",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700164",
@@ -655,9 +528,7 @@
       "category": "SIM",
       "serial": "64",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700165",
@@ -665,9 +536,7 @@
       "category": "SIM",
       "serial": "65",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700166",
@@ -675,9 +544,7 @@
       "category": "SIM",
       "serial": "66",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700167",
@@ -685,9 +552,7 @@
       "category": "SIM",
       "serial": "67",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700168",
@@ -695,9 +560,7 @@
       "category": "SIM",
       "serial": "68",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700169",
@@ -705,9 +568,7 @@
       "category": "SIM",
       "serial": "69",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700170",
@@ -715,9 +576,7 @@
       "category": "SIM",
       "serial": "70",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700171",
@@ -725,9 +584,7 @@
       "category": "SIM",
       "serial": "71",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700172",
@@ -735,9 +592,7 @@
       "category": "SIM",
       "serial": "72",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700173",
@@ -745,9 +600,7 @@
       "category": "SIM",
       "serial": "73",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700174",
@@ -755,9 +608,7 @@
       "category": "SIM",
       "serial": "74",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700175",
@@ -765,9 +616,7 @@
       "category": "SIM",
       "serial": "75",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700176",
@@ -775,9 +624,7 @@
       "category": "SIM",
       "serial": "76",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700177",
@@ -785,9 +632,7 @@
       "category": "SIM",
       "serial": "77",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700178",
@@ -795,9 +640,7 @@
       "category": "SIM",
       "serial": "78",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700179",
@@ -805,9 +648,7 @@
       "category": "SIM",
       "serial": "79",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700180",
@@ -815,9 +656,7 @@
       "category": "SIM",
       "serial": "80",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700181",
@@ -825,9 +664,7 @@
       "category": "SIM",
       "serial": "81",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700182",
@@ -835,9 +672,7 @@
       "category": "SIM",
       "serial": "82",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700183",
@@ -845,9 +680,7 @@
       "category": "SIM",
       "serial": "83",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700184",
@@ -855,9 +688,7 @@
       "category": "SIM",
       "serial": "84",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700185",
@@ -865,9 +696,7 @@
       "category": "SIM",
       "serial": "85",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700186",
@@ -875,9 +704,7 @@
       "category": "SIM",
       "serial": "86",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700187",
@@ -885,9 +712,7 @@
       "category": "SIM",
       "serial": "87",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700188",
@@ -895,9 +720,7 @@
       "category": "SIM",
       "serial": "88",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700189",
@@ -905,9 +728,7 @@
       "category": "SIM",
       "serial": "89",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700190",
@@ -915,9 +736,7 @@
       "category": "SIM",
       "serial": "90",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700191",
@@ -925,9 +744,7 @@
       "category": "SIM",
       "serial": "91",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700192",
@@ -935,9 +752,7 @@
       "category": "SIM",
       "serial": "92",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700193",
@@ -945,9 +760,7 @@
       "category": "SIM",
       "serial": "93",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700194",
@@ -955,9 +768,7 @@
       "category": "SIM",
       "serial": "94",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700195",
@@ -965,9 +776,7 @@
       "category": "SIM",
       "serial": "95",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700196",
@@ -975,9 +784,7 @@
       "category": "SIM",
       "serial": "96",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700197",
@@ -985,9 +792,7 @@
       "category": "SIM",
       "serial": "97",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700198",
@@ -995,9 +800,7 @@
       "category": "SIM",
       "serial": "98",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD176160021700199",
@@ -1005,9 +808,7 @@
       "category": "SIM",
       "serial": "99",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     },
     {
       "id": "PROD1761600217001100",
@@ -1015,12 +816,120 @@
       "category": "SIM",
       "serial": "100",
       "addedAt": "2025-10-27T21:23:37.000Z",
-      "employeeId": "EMP1761600196176",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-27T21:23:53.536Z"
+      "returnedAt": "2025-10-27T21:26:40.968Z"
     }
   ],
+  "allocations": [],
   "transactions": [
+    {
+      "id": "TXN1761600400969",
+      "type": "returned",
+      "employeeName": "Test",
+      "productCount": 100,
+      "serials": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98",
+        "99",
+        "100"
+      ],
+      "timestamp": "2025-10-27T21:26:40.968Z"
+    },
     {
       "id": "TXN1761600233537",
       "type": "allocated",
@@ -1241,6 +1150,6 @@
       "timestamp": "2025-10-27T21:23:37.000Z"
     }
   ],
-  "backupDate": "2025-10-27T21:23:54.980Z",
+  "backupDate": "2025-10-27T21:26:42.916Z",
   "version": "1.0"
 }
