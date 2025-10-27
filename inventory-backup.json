@@ -15,7 +15,8 @@
   "categories": [
     "SIM",
     "Hardware",
-    "Accessories"
+    "Accessories",
+    "19 TK Voice"
   ],
   "companyStock": [],
   "allocations": [
@@ -501,6 +502,6 @@
       "timestamp": "2025-10-27T21:23:37.000Z"
     }
   ],
-  "backupDate": "2025-10-27T21:54:08.305Z",
+  "backupDate": "2025-10-27T21:54:32.939Z",
   "version": "1.0"
 }
