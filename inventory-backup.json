@@ -19,760 +19,710 @@
   ],
   "companyStock": [
     {
-      "id": "PROD176162735914711",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "11",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914712",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "12",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914713",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "13",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914714",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "14",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914715",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "15",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914716",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "16",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914717",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "17",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914718",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "18",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914719",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "19",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914720",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "20",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914721",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "21",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914722",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "22",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914723",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "23",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914724",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "24",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914725",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "25",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914726",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "26",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914727",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "27",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914728",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "28",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914729",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "29",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914730",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "30",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914731",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "31",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914732",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "32",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914733",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "33",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914734",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "34",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914735",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "35",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914736",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "36",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914737",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "37",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914738",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "38",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914739",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "39",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914740",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "40",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914741",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "41",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914742",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "42",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914743",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "43",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914744",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "44",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914745",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "45",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914746",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "46",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914747",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "47",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914748",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "48",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914749",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "49",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914750",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "50",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914751",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "51",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914752",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "52",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914753",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "53",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914754",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "54",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914755",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "55",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914756",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "56",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914757",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "57",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914758",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "58",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914759",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "59",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914760",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "60",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914761",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "61",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914762",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "62",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914763",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "63",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914764",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "64",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914765",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "65",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914766",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "66",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914767",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "67",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914768",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "68",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914769",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "69",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914770",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "70",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914771",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "71",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914772",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "72",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914773",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "73",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914774",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "74",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914775",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "75",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914776",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "76",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914777",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "77",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914778",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "78",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914779",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "79",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914780",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "80",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914781",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "81",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914782",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "82",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914783",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "83",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914784",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "84",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914785",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "85",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914786",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "86",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914787",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "87",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914788",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "88",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914789",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "89",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914790",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "90",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914791",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "91",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914792",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "92",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914793",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "93",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914794",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "94",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914795",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "95",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914796",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "96",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914797",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "97",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914798",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "98",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD176162735914799",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "99",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    },
-    {
-      "id": "PROD1761627359147100",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "100",
-      "addedAt": "2025-10-28T04:55:59.146Z"
-    }
-  ],
-  "allocations": [
-    {
-      "id": "PROD17616273591461",
+      "id": "PROD17616232562971",
       "name": "Robi",
       "category": "SIM",
       "serial": "1",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591462",
+      "id": "PROD17616232562972",
       "name": "Robi",
       "category": "SIM",
       "serial": "2",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591463",
+      "id": "PROD17616232562973",
       "name": "Robi",
       "category": "SIM",
       "serial": "3",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591464",
+      "id": "PROD17616232562974",
       "name": "Robi",
       "category": "SIM",
       "serial": "4",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591465",
+      "id": "PROD17616232562975",
       "name": "Robi",
       "category": "SIM",
       "serial": "5",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591476",
+      "id": "PROD17616232562976",
       "name": "Robi",
       "category": "SIM",
       "serial": "6",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591477",
+      "id": "PROD17616232562977",
       "name": "Robi",
       "category": "SIM",
       "serial": "7",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591478",
+      "id": "PROD17616232562978",
       "name": "Robi",
       "category": "SIM",
       "serial": "8",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD17616273591479",
+      "id": "PROD17616232562979",
       "name": "Robi",
       "category": "SIM",
       "serial": "9",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "PROD176162735914710",
+      "id": "PROD176162325629710",
       "name": "Robi",
       "category": "SIM",
       "serial": "10",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
-    }
-  ],
-  "transactions": [
-    {
-      "id": "TXN1761627423339",
-      "type": "allocated",
-      "employeeName": "Test",
-      "productCount": 10,
-      "serials": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "timestamp": "2025-10-28T04:57:03.338Z"
+      "addedAt": "2025-10-28T03:47:36.296Z"
     },
     {
-      "id": "TXN1761627359147",
+      "id": "PROD176162325629711",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "11",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629712",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "12",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629713",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "13",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629714",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "14",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629715",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "15",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629716",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "16",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629717",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "17",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629718",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "18",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629719",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "19",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629720",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "20",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629721",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "21",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629722",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "22",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629723",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "23",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629724",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "24",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629725",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "25",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629726",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "26",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629727",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "27",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629728",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "28",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629729",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "29",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629730",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "30",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629731",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "31",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629732",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "32",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629733",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "33",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629734",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "34",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629735",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "35",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629736",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "36",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629737",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "37",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629738",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "38",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629739",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "39",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629740",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "40",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629741",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "41",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629742",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "42",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629743",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "43",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629744",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "44",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629745",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "45",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629746",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "46",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629747",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "47",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629748",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "48",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629749",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "49",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629750",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "50",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629751",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "51",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629752",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "52",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629753",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "53",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629754",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "54",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629755",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "55",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629756",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "56",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629757",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "57",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629758",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "58",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629759",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "59",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629760",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "60",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629761",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "61",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629762",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "62",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629763",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "63",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629764",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "64",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629765",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "65",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629766",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "66",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629767",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "67",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629768",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "68",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629769",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "69",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629770",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "70",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629771",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "71",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629772",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "72",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629773",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "73",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629774",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "74",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629775",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "75",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629776",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "76",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629777",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "77",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629778",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "78",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629779",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "79",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629780",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "80",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629781",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "81",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629782",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "82",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629783",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "83",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629784",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "84",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629785",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "85",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629786",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "86",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629787",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "87",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629788",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "88",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629789",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "89",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629790",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "90",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629791",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "91",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629792",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "92",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629793",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "93",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629794",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "94",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629795",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "95",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629796",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "96",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629797",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "97",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629798",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "98",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD176162325629799",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "99",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    },
+    {
+      "id": "PROD1761623256297100",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "100",
+      "addedAt": "2025-10-28T03:47:36.296Z"
+    }
+  ],
+  "allocations": [],
+  "transactions": [
+    {
+      "id": "TXN1761623256297",
       "type": "stock-added",
       "productCount": 100,
       "category": "SIM",
@@ -879,9 +829,9 @@
         "99",
         "100"
       ],
-      "timestamp": "2025-10-28T04:55:59.146Z"
+      "timestamp": "2025-10-28T03:47:36.296Z"
     }
   ],
-  "backupDate": "2025-10-28T05:01:56.506Z",
+  "backupDate": "2025-10-28T05:02:06.003Z",
   "version": "1.0"
 }
