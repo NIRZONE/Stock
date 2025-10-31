@@ -17,17 +17,14 @@
     "Hardware",
     "Accessories"
   ],
-  "companyStock": [],
-  "allocations": [
+  "companyStock": [
     {
       "id": "PROD17616273591461",
       "name": "Robi",
       "category": "SIM",
       "serial": "1",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591462",
@@ -35,9 +32,7 @@
       "category": "SIM",
       "serial": "2",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591463",
@@ -45,9 +40,7 @@
       "category": "SIM",
       "serial": "3",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591464",
@@ -55,9 +48,7 @@
       "category": "SIM",
       "serial": "4",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591465",
@@ -65,9 +56,7 @@
       "category": "SIM",
       "serial": "5",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591476",
@@ -75,9 +64,7 @@
       "category": "SIM",
       "serial": "6",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591477",
@@ -85,9 +72,7 @@
       "category": "SIM",
       "serial": "7",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591478",
@@ -95,9 +80,7 @@
       "category": "SIM",
       "serial": "8",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD17616273591479",
@@ -105,9 +88,7 @@
       "category": "SIM",
       "serial": "9",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     },
     {
       "id": "PROD176162735914710",
@@ -115,12 +96,30 @@
       "category": "SIM",
       "serial": "10",
       "addedAt": "2025-10-28T04:55:59.146Z",
-      "employeeId": "EMP1761627349235",
-      "employeeName": "Test",
-      "allocatedAt": "2025-10-28T04:57:03.338Z"
+      "returnedAt": "2025-10-31T15:03:09.698Z"
     }
   ],
+  "allocations": [],
   "transactions": [
+    {
+      "id": "TXN1761922989698",
+      "type": "returned",
+      "employeeName": "Test",
+      "productCount": 10,
+      "serials": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "timestamp": "2025-10-31T15:03:09.698Z"
+    },
     {
       "id": "TXN1761922714795",
       "type": "stock-deleted",
@@ -349,6 +348,6 @@
       "timestamp": "2025-10-28T04:55:59.146Z"
     }
   ],
-  "backupDate": "2025-10-31T15:02:43.282Z",
+  "backupDate": "2025-10-31T15:03:12.196Z",
   "version": "1.0"
 }
