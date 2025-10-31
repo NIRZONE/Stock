@@ -19,46 +19,6 @@
   ],
   "companyStock": [
     {
-      "id": "PROD17616273591461",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "1",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "returnedAt": "2025-10-31T15:03:09.698Z"
-    },
-    {
-      "id": "PROD17616273591462",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "2",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "returnedAt": "2025-10-31T15:03:09.698Z"
-    },
-    {
-      "id": "PROD17616273591463",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "3",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "returnedAt": "2025-10-31T15:03:09.698Z"
-    },
-    {
-      "id": "PROD17616273591464",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "4",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "returnedAt": "2025-10-31T15:03:09.698Z"
-    },
-    {
-      "id": "PROD17616273591465",
-      "name": "Robi",
-      "category": "SIM",
-      "serial": "5",
-      "addedAt": "2025-10-28T04:55:59.146Z",
-      "returnedAt": "2025-10-31T15:03:09.698Z"
-    },
-    {
       "id": "PROD17616273591476",
       "name": "Robi",
       "category": "SIM",
@@ -99,8 +59,78 @@
       "returnedAt": "2025-10-31T15:03:09.698Z"
     }
   ],
-  "allocations": [],
+  "allocations": [
+    {
+      "id": "PROD17616273591461",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "1",
+      "addedAt": "2025-10-28T04:55:59.146Z",
+      "employeeId": "EMP1761627349235",
+      "employeeName": "Test",
+      "allocatedAt": "2025-10-31T15:03:29.208Z",
+      "returnedAt": "2025-10-31T15:03:09.698Z"
+    },
+    {
+      "id": "PROD17616273591462",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "2",
+      "addedAt": "2025-10-28T04:55:59.146Z",
+      "employeeId": "EMP1761627349235",
+      "employeeName": "Test",
+      "allocatedAt": "2025-10-31T15:03:29.208Z",
+      "returnedAt": "2025-10-31T15:03:09.698Z"
+    },
+    {
+      "id": "PROD17616273591463",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "3",
+      "addedAt": "2025-10-28T04:55:59.146Z",
+      "employeeId": "EMP1761627349235",
+      "employeeName": "Test",
+      "allocatedAt": "2025-10-31T15:03:29.208Z",
+      "returnedAt": "2025-10-31T15:03:09.698Z"
+    },
+    {
+      "id": "PROD17616273591464",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "4",
+      "addedAt": "2025-10-28T04:55:59.146Z",
+      "employeeId": "EMP1761627349235",
+      "employeeName": "Test",
+      "allocatedAt": "2025-10-31T15:03:29.208Z",
+      "returnedAt": "2025-10-31T15:03:09.698Z"
+    },
+    {
+      "id": "PROD17616273591465",
+      "name": "Robi",
+      "category": "SIM",
+      "serial": "5",
+      "addedAt": "2025-10-28T04:55:59.146Z",
+      "employeeId": "EMP1761627349235",
+      "employeeName": "Test",
+      "allocatedAt": "2025-10-31T15:03:29.208Z",
+      "returnedAt": "2025-10-31T15:03:09.698Z"
+    }
+  ],
   "transactions": [
+    {
+      "id": "TXN1761923009208",
+      "type": "allocated",
+      "employeeName": "Test",
+      "productCount": 5,
+      "serials": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "timestamp": "2025-10-31T15:03:29.208Z"
+    },
     {
       "id": "TXN1761922989698",
       "type": "returned",
@@ -348,6 +378,6 @@
       "timestamp": "2025-10-28T04:55:59.146Z"
     }
   ],
-  "backupDate": "2025-10-31T15:03:12.196Z",
+  "backupDate": "2025-10-31T15:03:30.642Z",
   "version": "1.0"
 }
